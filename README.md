@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./aminike.jpg" alt="Profile header" width="600"/>
+  <img src="./aminike.jpg" alt="Profile header" width="1080"/>
 </p>
 
 <br/>

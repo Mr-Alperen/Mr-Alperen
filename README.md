@@ -6,6 +6,10 @@
 
 ---
 
+![Total LOC](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Mr-Alperen/Mr-Alperen/main/loc-badge.json)
+
+---
+
 # Alperen Erkan
 
 This page was not written to introduce me.
